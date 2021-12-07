@@ -17,7 +17,7 @@
     "start": "node app.js",
     "dev": "nodemon app.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["nodejs template"],
+  "author": "quocdatsc1205@gmail.com",
   "license": "ISC"
 }
